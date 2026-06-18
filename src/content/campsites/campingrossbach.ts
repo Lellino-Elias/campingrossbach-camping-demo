@@ -24,7 +24,7 @@ const campingrossbach: CampsiteConfig = {
   claimEmphasis: "der Tiroler Alpen",
   emailDetail: "euer eigenes Restaurant zum goldenen Hirschen direkt am Platz",
   intro:
-    "Zwischen Wäldern und Bergen bei Nassereith erwarten dich ebene Stellplätze, ein eigenes Wirtshaus und kurze Wege in die Outdoorregion Imst — Camping, bei dem Freiheit kein Werbewort ist.",
+    "Zwischen Wäldern und Bergen bei Nassereith erwarten dich familienfreundliche Stellplätze, ein eigenes Wirtshaus und kurze Wege in die Outdoorregion Imst — Camping, bei dem Freiheit kein Werbewort ist.",
 
   logo: { src: `${IMG}/logo.png`, alt: "Logo Camping Rossbach Nassereith" },
 
@@ -40,7 +40,7 @@ const campingrossbach: CampsiteConfig = {
   usps: [
     "Eigenes Restaurant am Platz",
     "Imst Card inklusive",
-    "Ebene Stellplätze",
+    "Familienfreundliche Stellplätze",
     "Spielplatz für Kinder",
     "Geöffnet März–Oktober",
   ],
@@ -49,7 +49,7 @@ const campingrossbach: CampsiteConfig = {
     heading: "Die Berge vor dem Zelt, das Gasthaus gleich nebenan",
     headingEmphasis: "das Gasthaus",
     intro:
-      "Familie Hofer führt den Platz persönlich: ein eigenes Wirtshaus, ein Spielplatz für die Kinder und die ganze Outdoorregion Imst direkt vor der Tür — von März bis Oktober.",
+      "Die Gastgeberfamilie führt den Platz persönlich: ein eigenes Wirtshaus, ein Spielplatz für die Kinder und die ganze Outdoorregion Imst direkt vor der Tür — von März bis Oktober.",
   },
 
   awards: [],
@@ -70,10 +70,10 @@ const campingrossbach: CampsiteConfig = {
     features: [
       {
         title: "Zum goldenen Hirschen",
-        text: "Herzhaftes vom Grill und hausgemachte Schmankerl unter freiem Himmel — das Wirtshaus von Familie Hofer.",
+        text: "Herzhaftes vom Grill und hausgemachte Schmankerl unter freiem Himmel — das Wirtshaus am Platz.",
         image: {
           src: `${IMG}/restaurant-hirschen.webp`,
-          alt: "Familie Hofer im Restaurant zum goldenen Hirschen",
+          alt: "Im Restaurant zum goldenen Hirschen am Camping Rossbach",
         },
       },
       {
