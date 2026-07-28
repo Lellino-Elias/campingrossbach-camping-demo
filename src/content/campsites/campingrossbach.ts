@@ -123,7 +123,7 @@ const campingrossbach: CampsiteConfig = {
       "Sag uns Zeitraum und Personenzahl — wir melden uns persönlich mit deiner Verfügbarkeit zurück.",
     pricesArePlaceholder: true,
     priceNote:
-      "Richtpreise — auf der Website sind keine Campingpreise angegeben (bitte bestätigen). Endpreis je nach Saison und Personen, zzgl. Ortstaxe.",
+      "Richtpreise — die Website nennt eine Preisliste, deren Text beim Scrape jedoch nur als unvollständiges Fragment erfasst wurde (Zuordnung Kategorie ↔ Betrag unklar, bitte bestätigen). Endpreis je nach Saison und Personen, zzgl. Ortstaxe.",
     highlight: {
       title: "Restaurant am Platz",
       text: "Das Wirtshaus zum goldenen Hirschen ist nur ein paar Schritte entfernt.",
